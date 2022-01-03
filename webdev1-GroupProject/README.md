@@ -2,7 +2,7 @@
 
 Member1: XXXXXXXXXXXX
 
-Member2: Pyry COllander
+Member2: PCollander
 
 # WebDev1 coursework assignment
 
