@@ -1,9 +1,9 @@
 # Group
 
-Member1: Valtteri Virtanen, valtteri.v.virtanen@tuni.fi, 98522,
+Member1: XXXXXXXXXXXX
 resposible for: TODO, short description of duties
 
-Member2: name, email, student ID,
+Member2: PCollander
 resposible for: TODO, short description of duties
 
 # WebDev1 coursework assignment
